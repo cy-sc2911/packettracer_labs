@@ -2,10 +2,10 @@
 Cisco Packet Tracer
 
 ## Overview
-A documentation to better understand packet tracing.
+A documentation to understand how packets move between different devices.
 
 ## Learning Objectives
-- I wanted to better understand how network flows between devices and in a small or large network.
+- I want to better understand how network flows between devices in a personal network and large network.
 
 ## Topics Covered
 - Basic Lan Configuration
