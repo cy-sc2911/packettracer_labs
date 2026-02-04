@@ -1,4 +1,3 @@
-```markdown
 Cisco Packet Tracer
 
 ## Overview
